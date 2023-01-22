@@ -23,9 +23,9 @@ Project Organization
     │
     ├── docs               <- Project documentation.
     │
-    ├── results            <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                           the creator's initials, and a short `-` delimited description, e.g.
-    │                           `1.0-jqp-initial-data-exploration`.
+    ├── results            <- Directory to place/run experiments, to make a new experiment
+    │                           use the cookiecutter template [cookiecutter-analysis-directory].
+    │                           This cookiecutter is based on Noble 2009, Carrying Out a Single Experiment
     │
     ├── scratch            <- This folder contains temporal or intermediate files that can be
     │                           easily generated. Periodically the contents of this folder
