@@ -5,6 +5,7 @@ Untitled.ipynb
 
 # Ignore data files
 
+scratch/*
 data/
 *.h5
 *.gz
