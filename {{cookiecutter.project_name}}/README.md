@@ -47,8 +47,7 @@ Project Organization
     └── {{cookiecutter.python_module_name}} <- Source code for use in this project.
         ├── __init__.py    <- Makes {{cookiecutter.python_module_name}} a Python module
         │
-        ├── data           <- Scripts to download or generate data
-        │   └── make_dataset.py
+        ├── data.py        <- Scripts to download or generate data
         │
         └─ utils.py       <- Usefull functions
 --------
