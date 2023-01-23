@@ -1,0 +1,12 @@
+name: popgene
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - cyvcf2
+  - pandas
+  - scikit-allel
+  - biopython
+  - snakemake
+  - ipython
+
