@@ -23,7 +23,7 @@ Project Organization
     │
     ├── docs               <- Project documentation.
     │
-    ├── results            <- Directory to place/run experiments, to make a new experiment
+    ├── experiments       <- Directory to place/run experiments, to make a new experiment
     │                           use the cookiecutter template [cookiecutter-analysis-directory].
     │                           This cookiecutter is based on Noble 2009, Carrying Out a Single Experiment
     │
