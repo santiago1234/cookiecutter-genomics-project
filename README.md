@@ -27,6 +27,8 @@ $ conda install cookiecutter
 
 
 ### The resulting directory structure
+
+The directory structure of your new project looks like this: 
 ------------
 
     ├── LICENSE
@@ -75,8 +77,14 @@ $ conda install cookiecutter
         └─ utils.py       <- Usefull functions
 --------
 
-The directory structure of your new project looks like this: 
+### Carrying out a sinlge experiment
 
+Inside the results dir is where experiments are performed, to se a new
+experiment/analysis use the [cookiecutter-analysis-directory](https://github.com/santiago1234/cookiecutter-analysis-directory)
+
+```bash
+cookiecutter https://github.com/santiago1234/cookiecutter-analysis-directory
+```
 
 ### References
 
