@@ -6,11 +6,11 @@ Untitled.ipynb
 # Ignore data files
 
 scratch/*
-data/
 *.placeholder
 *.h5
 *.gz
 *.vcf
+*.tbi
 *.txt
 *.csv
 *.html
