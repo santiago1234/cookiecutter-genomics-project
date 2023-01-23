@@ -60,5 +60,8 @@ See the [Table of Contents](TableOfContents.md).
 
 ## Contact
 
-
 {{cookiecutter.author_name}} at {{cookiecutter.author_email}}
+
+## CITATION
+
+To cite this project, please see the file [CITATION](./CITATION).
